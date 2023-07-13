@@ -90,7 +90,7 @@ To get started with NumPy and run the examples and exercises in this repository,
 
 2. Install NumPy: Open a terminal or command prompt and run the following command to install NumPy using pip install numpy
    
-3. Clone the repository: In a terminal or command prompt, navigate to the directory where you want to clone this repository. Then, run the following command: git clone https://github.com/YourUsername/NumPy-Basics.git
+3. Clone the repository: In a terminal or command prompt, navigate to the directory where you want to clone this repository. Then, run the following command: git clone https://github.com/Prureddy/Numpy_practice_1.git
 
 
 4. Explore the examples and exercises: You can now navigate to the `examples/` and `exercises/` directories to explore the code examples and practice exercises. Feel free to modify the code and experiment with different scenarios.
