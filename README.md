@@ -6,12 +6,82 @@ This repository contains examples and practice exercises for getting started wit
 
 NumPy is a Python library used for working with large, multi-dimensional arrays and matrices of numerical data. It provides a high-performance multidimensional array object, along with tools for working with these arrays. NumPy is the fundamental package for numerical computing with Python.
 
-## Repository Contents
+## Table of Contents
 
-- `examples/`: This directory contains code examples that demonstrate various NumPy functionalities, such as array creation, manipulation, mathematical operations, and more. Each example is accompanied by comments explaining the code and its output.
+- [NumPy Getting Started](#numpy-getting-started)
+- [NumPy Creating Arrays](#numpy-creating-arrays)
+- [NumPy Array Indexing](#numpy-array-indexing)
+- [NumPy Array Slicing](#numpy-array-slicing)
+- [NumPy Data Types](#numpy-data-types)
+- [NumPy Copy vs View](#numpy-copy-vs-view)
+- [NumPy Array Shape](#numpy-array-shape)
+- [NumPy Array Reshape](#numpy-array-reshape)
+- [NumPy Array Iterating](#numpy-array-iterating)
+- [NumPy Array Join](#numpy-array-join)
+- [NumPy Array Split](#numpy-array-split)
+- [NumPy Array Search](#numpy-array-search)
+- [NumPy Array Sort](#numpy-array-sort)
+- [NumPy Array Filter](#numpy-array-filter)
 
-- `exercises/`: This directory contains practice exercises to reinforce your understanding of NumPy. Each exercise comes with a starter code and a brief description of the task. Feel free to try them out and expand your knowledge.
+## NumPy Getting Started
 
+This section covers the basics of getting started with NumPy. It includes installation instructions and a simple example to demonstrate how to import the NumPy library.
+
+## NumPy Creating Arrays
+
+Learn how to create arrays in NumPy. This section explains different methods to create arrays, such as using Python lists, NumPy functions, and more.
+
+## NumPy Array Indexing
+
+Explore array indexing in NumPy. Learn how to access individual elements, subsets of elements, and perform operations on specific elements of an array.
+
+## NumPy Array Slicing
+
+Understand array slicing in NumPy. This section covers the techniques to extract specific portions or subarrays from an array.
+
+## NumPy Data Types
+
+Learn about the different data types available in NumPy. This section explains how to specify and manipulate data types within NumPy arrays.
+
+## NumPy Copy vs View
+
+Understand the concepts of copy and view in NumPy. Learn how to create copies of arrays or create views that refer to the same data.
+
+## NumPy Array Shape
+
+Explore the concept of array shape in NumPy. This section covers how to determine and manipulate the shape of an array.
+
+## NumPy Array Reshape
+
+Learn how to reshape arrays in NumPy. This section explains how to change the shape of an array without modifying its data.
+
+## NumPy Array Iterating
+
+Understand how to iterate over arrays in NumPy. This section covers different methods to iterate over elements in an array.
+
+## NumPy Array Join
+
+Learn how to join or concatenate arrays in NumPy. This section explains how to combine multiple arrays along different axes.
+
+## NumPy Array Split
+
+Explore array splitting in NumPy. This section covers different methods to split arrays into multiple smaller arrays.
+
+## NumPy Array Search
+
+Learn how to search for elements or conditions in NumPy arrays. This section covers techniques to find specific values or meet certain conditions in an array.
+
+## NumPy Array Sort
+
+Understand how to sort arrays in NumPy. This section covers different sorting methods available in NumPy.
+
+## NumPy Array Filter
+
+Explore array filtering in NumPy. This section explains how to create boolean masks and use them to filter arrays based on specific conditions.
+
+## Contributing
+
+Contributions to this repository are welcome! If you have any improvements, corrections, or additional examples, feel free to submit a pull request.
 ## Getting Started
 
 To get started with NumPy and run the examples and exercises in this repository, you'll need to have Python and NumPy installed on your system. Here are the steps:
